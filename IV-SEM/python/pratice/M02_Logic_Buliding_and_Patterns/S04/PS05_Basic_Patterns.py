@@ -75,14 +75,29 @@ output :
 
 
 
-n = int(input())
-k += 1 
-for i in range(n) :
+# n = int(input())
+# k = 1 
+# for i in range(1 , n + 1) :
 
-    for j in range(i + 1) :
+#     for j in range(i) :
 
-        print(k + 1, end = " ")
+#         print(k, end = " ")
 
-        k += 1 
+#         k += 1 
 
-    print()
+#     print()
+
+''' 
+
+5Q) 
+
+n = 4 
+
+A 
+A B 
+A B C 
+A B C D 
+
+''' 
+
+
