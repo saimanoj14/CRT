@@ -1,4 +1,4 @@
-#  Weird/Not Weird
+# Assignment AST01 – Language and Programming Basics
 
 ## Problem Statement
 Given an integer,n, perform the following conditional actions:
