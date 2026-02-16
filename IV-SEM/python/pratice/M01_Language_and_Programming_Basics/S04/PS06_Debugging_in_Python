@@ -40,11 +40,8 @@ except ValueError:
 
 
 import pdb 
-
 def add(a , b) :
-    
     pdb.set_trace()
-
     return a + b 
 
 a = int(input("Enter first number:"))
